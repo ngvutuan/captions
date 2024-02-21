@@ -9,7 +9,7 @@
  },
  {
   "input": "This is the first video in a series on the essence of calculus, and I'll be publishing the following videos once per day for the next 10 days. ",
-  "translatedText": "Đây là video đầu tiên trong loạt video về bản chất của phép tính và tôi sẽ xuất bản các video sau một lần mỗi ngày trong 10 ngày tới. ",
+  "translatedText": "Đây là video đầu tiên trong loạt video về bản chất của giải tích và tôi sẽ xuất bản các video sau một lần mỗi ngày trong 10 ngày tới. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 16.82,
@@ -81,7 +81,7 @@
  },
  {
   "input": "In this initial video, I want to show how you might stumble into the core ideas of calculus by thinking very deeply about one specific bit of geometry, the area of a circle. ",
-  "translatedText": "Trong video đầu tiên này, tôi muốn chỉ ra cách bạn có thể nắm bắt được những ý tưởng cốt lõi của phép tính bằng cách suy nghĩ sâu sắc về một phần hình học cụ thể, diện tích hình tròn. ",
+  "translatedText": "Trong video đầu tiên này, tôi muốn chỉ ra cách bạn có thể nắm bắt được những ý tưởng cốt lõi của giải tích bằng cách suy nghĩ sâu sắc về một phần hình học cụ thể, là diện tích của một hình tròn. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 86.82,
@@ -121,7 +121,7 @@
  },
  {
   "input": "You're trying to figure out its area, and after going through a lot of paper trying different ways to chop up and rearrange the pieces of that area, many of which might lead to their own interesting observations, maybe you try out the idea of slicing up the circle into many concentric rings. ",
-  "translatedText": "Bạn đang cố gắng tìm ra diện tích của nó, và sau khi xem qua rất nhiều tờ giấy, thử nhiều cách khác nhau để cắt nhỏ và sắp xếp lại các phần của khu vực đó, nhiều cách trong số đó có thể dẫn đến những quan sát thú vị của riêng bạn, có thể bạn sẽ thử ý tưởng về cắt đường tròn thành nhiều vòng đồng tâm. ",
+  "translatedText": "Bạn đang cố gắng tìm ra diện tích của nó, và sau khi xem qua rất nhiều tờ giấy, thử nhiều cách khác nhau để cắt nhỏ và sắp xếp lại các phần diện tích đó, nhiều cách trong số đó có thể dẫn đến những quan sát thú vị của riêng bạn, có thể bạn sẽ thử ý tưởng về cắt đường tròn thành nhiều vòng đồng tâm. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 125.7,
@@ -153,7 +153,7 @@
  },
  {
   "input": "Maybe you start by imagining straightening out this ring. ",
-  "translatedText": "Có thể bạn bắt đầu bằng cách tưởng tượng việc làm thẳng chiếc nhẫn này. ",
+  "translatedText": "Có thể bạn bắt đầu bằng cách tưởng tượng việc làm thẳng vòng tròn này. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 166.42,
@@ -201,7 +201,7 @@
  },
  {
   "input": "In the spirit of using what will come to be standard calculus notation, let's call that thickness dr for a tiny difference in the radius from one ring to the next. ",
-  "translatedText": "Theo tinh thần sử dụng ký hiệu giải tích tiêu chuẩn, hãy gọi độ dày đó là dr cho sự khác biệt nhỏ trong bán kính từ vòng này sang vòng tiếp theo. ",
+  "translatedText": "Trên tinh thần sử dụng ký hiệu giải tích tiêu chuẩn, ta gọi độ dày đó là dr cho sự khác biệt nhỏ trong bán kính từ vòng tròn này sang vòng tròn tiếp theo. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 196.34,
@@ -241,7 +241,7 @@
  },
  {
   "input": "That is, if we slice up the circle into thinner and thinner rings. ",
-  "translatedText": "Tức là, nếu chúng ta cắt hình tròn thành những vòng ngày càng mỏng hơn. ",
+  "translatedText": "Tức là, nếu chúng ta cắt hình tròn thành những vòng tròn ngày càng mỏng hơn. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 243.22,
@@ -257,7 +257,7 @@
  },
  {
   "input": "And notice that the spacing between the values here corresponds to the thickness dr of each ring, the difference in radius from one ring to the next. ",
-  "translatedText": "Và lưu ý rằng khoảng cách giữa các giá trị ở đây tương ứng với độ dày dr của mỗi vòng, độ chênh lệch bán kính giữa vòng này với vòng tiếp theo. ",
+  "translatedText": "Và lưu ý rằng khoảng cách giữa các giá trị ở đây tương ứng với độ dày dr của mỗi vòng tròn, độ chênh lệch bán kính giữa vòng này với vòng tiếp theo. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 273.14,
@@ -273,7 +273,7 @@
  },
  {
   "input": "Each one has a thickness dr, which is why they fit so snugly right there together, and the height of any one of these rectangles sitting above some specific value of r, like 0.6, is exactly 2 pi times that value. ",
-  "translatedText": "Mỗi hình có độ dày dr, đó là lý do tại sao chúng vừa khít với nhau và chiều cao của bất kỳ hình chữ nhật nào nằm phía trên một giá trị cụ thể nào đó của r, chẳng hạn như 0.6, chính xác là 2 pi lần giá trị đó. ",
+  "translatedText": "Mỗi hình có độ dày dr, đó là lý do tại sao chúng vừa khít với nhau và chiều cao của bất kỳ hình chữ nhật nào nằm phía trên một giá trị cụ thể nào đó của r, chẳng hạn như 0.6, chính xác là bằng 2 pi lần giá trị đó. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 290.66,
@@ -281,7 +281,7 @@
  },
  {
   "input": "That's the circumference of the corresponding ring this rectangle approximates. ",
-  "translatedText": "Đó là chu vi của vòng tương ứng mà hình chữ nhật này gần đúng. ",
+  "translatedText": "Đó là chu vi của vòng tròn tương ứng mà hình chữ nhật này gần đúng. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 304.64,
@@ -313,7 +313,7 @@
  },
  {
   "input": "Each of these rectangles extends up to the point where it just barely touches that graph. ",
-  "translatedText": "Mỗi hình chữ nhật này kéo dài đến mức nó vừa chạm vào biểu đồ đó. ",
+  "translatedText": "Mỗi hình chữ nhật này kéo dài đến mức nó vừa chạm vào đồ thị đó. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 330.1,
@@ -369,7 +369,7 @@
  },
  {
   "input": "But notice, all of their areas in aggregate just looks like the area under a graph. ",
-  "translatedText": "Nhưng hãy chú ý, tổng diện tích của chúng trông giống như diện tích bên dưới biểu đồ. ",
+  "translatedText": "Nhưng hãy chú ý, tổng diện tích của chúng trông giống như diện tích bên dưới đồ thị. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 370.06,
@@ -377,7 +377,7 @@
  },
  {
   "input": "And that portion under the graph is just a triangle, a triangle with a base of 3 and a height that's 2 pi times 3. ",
-  "translatedText": "Và phần đó bên dưới biểu đồ chỉ là một hình tam giác, một hình tam giác có đáy bằng 3 và chiều cao bằng 2 pi nhân 3. ",
+  "translatedText": "Và phần đó bên dưới đồ thị chỉ là một hình tam giác, một hình tam giác có đáy bằng 3 và chiều cao bằng 2 pi nhân 3. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 375.98,
